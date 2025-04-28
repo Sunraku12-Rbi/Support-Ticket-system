@@ -8,5 +8,15 @@
       "name": "Shane Cunningham",
       "email": "shanecunningham@live.ie"
     }
+  {
+    "name": "vendor_name/package_name",
+    "description": "simple support ticket system",
+    "minimum-stability": "stable-toodler",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Mochamad Robi"
+        "email": "sunrakukatzo@gmail.com"
+      }
   ]
 }
